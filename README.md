@@ -1,21 +1,31 @@
-### Hi there 👋
+<div align="center">
+<img src="https://raw.githubusercontent.com/lenston19/lenston19/master/Hello%20There.gif" width="80%">
+</div>
 
-![GitHub metrics](https://metrics.lecoq.io/lenston19) 
+## :fire: My Stats
+<div align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lenston19&theme=dark&background=000000" alt="Github stats" style="margin-bottom: 10px" /> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenston19&layout=compact&theme=vision-friendly-dark" /> 
+</div>
 
-| <a href="https://github.com/lenston19/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lenston19&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/lenston19/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenston19&layout=compact&hide_border=true&theme=dark" /></a> |
-| ------------- | ------------- |
+<hr>
 
-<!--
-**lenston19/lenston19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :hammer_and_pick: Languages, Tools, Frameworks:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="80" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="80" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="80" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="80" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="80"/>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="80"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="80" />
+<img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" width="80"/>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="80" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="80" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="80" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" /> 
